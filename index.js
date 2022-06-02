@@ -74,6 +74,11 @@ function myAlert(){
     alert("Welcome")
 }
 
+
+function save(){
+    console.log(count)
+}
+
 //function myLogger(){
   //  console.log("Hello World");
 //}
